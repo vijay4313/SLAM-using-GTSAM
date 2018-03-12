@@ -1,5 +1,4 @@
 %% Wrapper for P2Ph1 for CMSC828T Course at University of Maryland, College Park
-% Code by: Nitin J. Sanket (nitinsan@terpmail.umd.edu)
 
 clc
 clear all
